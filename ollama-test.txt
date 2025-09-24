@@ -1,0 +1,5 @@
+This is a test
+to pull a file
+into Ollama,
+read it, and 
+provide a summary.
